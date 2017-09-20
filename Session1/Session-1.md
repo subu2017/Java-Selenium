@@ -82,6 +82,23 @@ https://www.jetbrains.com/idea/download/#section=mac
 - Install the downloaded file.
 - Follow the instructions by along the way. Installation will be as simple as any other software installation.
 
+###  JDK, JRE and JVM.
+
+- **JRE** - JRE stands for **Java Runtime Environment**.
+  - This holds the libraries that are needed for running Java Applications.
+  - JVM sits inside JRE.
+
+- **JVM** - This stands for Java Virtual Machine.
+  - JVM is responsible for running the byte code that gets generated from .java file.
+  - What is a ByteCode?
+    - ByteCode is nothing but a compiled .class files.
+
+- **JDK** - JDK stands for **Java Development Kit**.
+  - JDK has compilers , debuggers.
+  - JDK has both JVM and JRE inside.
+  - JDK is nedded for development purposes.
+
+
 ### How to create a simple Java Project?
 
 Follow the below steps to create a Project.  
