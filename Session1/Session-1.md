@@ -98,6 +98,7 @@ https://www.jetbrains.com/idea/download/#section=mac
   - JDK has both JVM and JRE inside.
   - JDK is nedded for development purposes.
 
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/Session2/images/jdk-jre-jvm-.png)
 
 ### How to create a simple Java Project?
 
