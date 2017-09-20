@@ -7,31 +7,34 @@ public class NonPrimitiveDataTypes {
 
     public static void main(String[] args) {
 
-        boolean result = true;
-        System.out.println("result : " + result);
+        //Different ways of creating a String Object.
+        //Approach1
+        String str = "Hello World";
 
-        char capitalC = 'C';
-        System.out.println("capitalC : " + capitalC);
+        //Approach2
+        String str1 = new String("Hello World");
 
-        byte b = 100;
-        System.out.println("b : " + b);
+        //Approach 3
+        String str2 = new String();
 
-        short s = 10000;
-        System.out.println("s : " + s);
+        str2="Hello";
 
-        int i = 100000;
-        System.out.println("i : " + i);
+        
+        //How to chceck size of the String.
+        System.out.println("Length of the String is :" + str.length());
 
-        long l = 1l;
-        System.out.println("l : " + l);
+        //How to add concat strings
+        System.out.println("New String is : " + str.concat(" How are you ?"));
 
-        float pi =  3.162342439f;
-        System.out.println("pi : " + pi);
+        //How to compare two strings
+        System.out.println("Two Strings are Equal : " + str.equals(str1));
+        System.out.println("Two Strings are not Equal : " + str.equals(str2));
 
-        double d = 3.20343423;
-        System.out.println("d : " + d);
+        //How to replace a character in a string.
+        System.out.println("New Replaced String is : " + str.replace("o","t"));
 
-
+        //How to check whether the string is empty
+        System.out.println(str.isEmpty());
 
     }
 }
