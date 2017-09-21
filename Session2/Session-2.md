@@ -70,10 +70,13 @@ Lets Code and learn.
 
 https://www.google.com/imgres?imgurl=http://www.geeksforgeeks.org/wp-content/uploads/Access-Modifiers-in-Java.png&imgrefurl=http://www.geeksforgeeks.org/access-modifiers-java/&h=347&w=1016&tbnid=W8JoXOcrrL55CM:&tbnh=71&tbnw=211&usg=___NXWVajmByrxrqWEh2Z20VyaPD0=&vet=10ahUKEwjs3LL117TWAhVn34MKHYHvAj4Q9QEILDAA..i&docid=3it0WdZTMCZNBM&sa=X&ved=0ahUKEwjs3LL117TWAhVn34MKHYHvAj4Q9QEILDAA
 
+- We will explore some of access modifiers in the next section.
+
 ### How to call a method in a different class ?
 
 - We will create two classes ClassA and ClassB.
   - Call a method in classB from classA.
+
 
 ### Conditional Statements in Java:
 - if-else
@@ -87,3 +90,10 @@ Lets learn these by coding it.
 - while loop
 
 Lets learn these by coding it.
+
+### How Java Works and why Java popular?
+
+- Java is platform independent. What this means is that it can run on any platform. Mac, Windows, Linux.
+- What is needed to run a Java application?
+  - All that is needed is a Java run time ( Which is JRE).
+  - Install the Java Runtime in the environment then you are good to go. You can run any Java app.
