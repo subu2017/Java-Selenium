@@ -1,5 +1,11 @@
 # This readme has covers the topics for Session 2.
 
+There are four OOOPs principles which we will exploring it throughout the course.
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism.
+
 ## Data Types
 
 What is a Data type ?  
