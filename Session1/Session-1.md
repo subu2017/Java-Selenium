@@ -120,3 +120,29 @@ Follow the below steps to create a Project.
 Now we have created our Java Project. Lets push this project to git hub.  
 
 ### How to add the project to Github repository?
+
+### How to clone the project:
+
+git clone <repo>
+
+### How to check changes made?
+
+git status
+
+### How to push the code to remote?
+
+add -> commit -> push
+
+- Adding the files
+```
+git add .
+```
+- Commiting the files
+```
+git commit -m 'adding the intial project'
+```
+- Command to push the code to remote
+
+```
+git push origin master
+```
