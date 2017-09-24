@@ -16,6 +16,7 @@ public class Exceptions {
 
         //System.out.println("Length of the String : "+ str.length());
 
+        //Checked Exception
         try{
             System.out.println("Length of the String : "+ str.length());
         }catch (NullPointerException e){
