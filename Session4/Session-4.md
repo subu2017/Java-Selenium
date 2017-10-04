@@ -1,4 +1,10 @@
 
+## Introduction to Selenium:
+
+- Selenium automates web browsers.
+- This is mainly used for automating Web Applications for testing the browsers.
+- Selenium also used for some boring web browser tasks.
+
 
 ## How to download Selenium Jars ?
 
@@ -8,7 +14,7 @@ http://www.seleniumhq.org/download/
 
 ## How to connect to a firefox browser ?
 
-- In order to open the FireFox browser from 
+- In order to open the FireFox browser from
 
 
 ## How to connect to a chrome browser ?
