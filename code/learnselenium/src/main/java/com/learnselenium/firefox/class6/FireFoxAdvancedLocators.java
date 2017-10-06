@@ -19,6 +19,6 @@ public class FireFoxAdvancedLocators {
         firefoxDriver = new FirefoxDriver();
 
 
-        
+
     }
 }
