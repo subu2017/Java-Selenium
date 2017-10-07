@@ -23,12 +23,12 @@ There are eight Primitive Data Types:
 
 - byte
 - short
-- int
-- long
-- float
-- double
-- boolean
-- char
+- **int**
+- **long**
+- **float**
+- **double**
+- **boolean**
+- **char**
 
 Lets code them.
 
