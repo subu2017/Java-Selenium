@@ -10,7 +10,35 @@
 -	Download firefox browser.
 -	Install firebug and fire path plugin.
 
+## How to install FireBug anf FirePath:
+
+-	Click Addons in Firefox.
+
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/firefox-1.png)
+
+-	Search **Firebug**
+
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/firefox-2.png)
+
+- Click Install.
+
+-	Search **FirePath**
+
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/firefox-3.png)
+
+- Click Finish.
+
+
 ## Create a maven Project.
+
+-	Open Eclipse.
+-	Create a new Maven Project.
+		
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/selenium-1.png)
+
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/selenium-3.png)
+
+- Click finish.
 
 
 ## How to download Selenium Jars ?
