@@ -71,9 +71,6 @@
 - This will download all the selenium jars in your machine.
 
 
-## How to connect to a firefox browser ?
-
-
 ## How to connect to a chrome browser ?
 
 ### Where to download chrome driver?
