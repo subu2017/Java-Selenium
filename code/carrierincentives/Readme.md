@@ -28,6 +28,19 @@
 
 - Click Finish.
 
+## How to enable Firebug in Firefox?
+-	Open Firefox browser.
+
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/firefox-4.png)
+
+-	Click on the firebug ico. It will tur in to orange color.
+
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/firefox-3.png)
+
+-	You will notice the below panel enabled in the browser.
+
+![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/firefox-3.png)
+
 
 ## Create a maven Project.
 
@@ -39,6 +52,7 @@
 ![](https://github.com/dilipthelip/Java-Selenium/blob/master/selenium/images/selenium-3.png)
 
 - Click finish.
+
 
 
 ## How to download Selenium Jars ?
