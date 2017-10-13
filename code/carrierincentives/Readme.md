@@ -43,13 +43,21 @@
 
 ## How to download Selenium Jars ?
 
-Go to the below link and download the java related jar files.
+-	Open **pom.xml** in the project.
+-	Add the below depedency.
 
-http://www.seleniumhq.org/download/
+```
+		<dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>3.5.3</version>
+        </dependency>
+```
+
+- This will download all the selenium jars in your machine.
+
 
 ## How to connect to a firefox browser ?
-
-- In order to open the FireFox browser from
 
 
 ## How to connect to a chrome browser ?
